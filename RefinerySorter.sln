@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefinerySorter", "RefinerySorter.csproj", "{92A0B7EE-5F05-4BC4-878A-332958EFB63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A0B7EE-5F05-4BC4-878A-332958EFB63A}.Debug|x64.ActiveCfg = Debug|x64
+		{92A0B7EE-5F05-4BC4-878A-332958EFB63A}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86A77AD9-3F26-4C8E-B9F4-7CA1B0192F8F}
+	EndGlobalSection
+EndGlobal
